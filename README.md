@@ -1,13 +1,13 @@
 # 示例002、相亲(控件介绍)
 
-- <a target="_blank" href="http://www.imooc.com/view/173">课程地址(幕课网-使用 Swift 开发第一章) </a>
+- <a target="_blank" href="http://www.imooc.com/view/173">**课程地址(幕课网-使用 Swift 开发第一章)** </a>
 
-- <a target="_blank" href="https://github.com/itCatface/IOS-002_LoveFinder">代码地址(Github) </a>
+- <a target="_blank" href="https://github.com/itCatface/IOS-002_LoveFinder">**代码地址(Github)** </a>
 
-- 关键代码
+- **关键代码**
 
 
-	- 绑定相关视图控件
+	- **绑定相关视图控件**
 
 			@IBOutlet weak var name: UITextField! 
 			...
@@ -15,7 +15,7 @@
 	---
 	---
 	
-	- 点击下一项，关闭键盘
+	- **点击下一项，关闭键盘**
 
 			选中控件，右侧面板中 Return Key 选择 Next
 		
@@ -30,7 +30,7 @@
 	---
 	---
 	
-	- UISlider 控件的事件
+	- **UISlider 控件的事件**
 
 			@IBAction func heightChanged(sender: AnyObject) {
 		        
@@ -41,7 +41,7 @@
 	---
 	---
 	
-	- 点击确定，提交数据事件
+	- **点击确定，提交数据事件**
 
 		    @IBAction func btnOk(sender: AnyObject) {
 		        
