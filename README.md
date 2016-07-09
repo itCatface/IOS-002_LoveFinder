@@ -1,6 +1,6 @@
 # 示例002、相亲(控件介绍)
 
-- <a target="_blank" href="http://www.imooc.com/view/173">**课程地址(幕课网-使用 Swift 开发第一章)** </a>
+- <a target="_blank" href="http://www.imooc.com/view/173">**课程地址(幕课网-使用 Swift 开发第二章)** </a>
 
 - <a target="_blank" href="https://github.com/itCatface/IOS-002_LoveFinder">**代码地址(Github)** </a>
 
